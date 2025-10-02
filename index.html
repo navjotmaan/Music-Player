@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      rel="icon"
+      href="resources/favicon.ico"
+      type="image/x-icon"
+      sizes="96x96"
+    />
+    <link rel="stylesheet" href="style.css">
+
+    <title>Music Player | devChallenges.io</title>
+  </head>
+  <body>
+
+    <div class="music-player">
+      <div class="cover">
+        <img src="" alt="Song Cover" id="song-cover">
+      </div>
+      <h2 id="title"></h2>
+      <p id="author"></p>
+      
+
+      <div class="progress-container">
+        <span>0:00</span>
+        <div id="progress-bar">
+          <div class="progress"></div>
+        </div>
+        <span></span>
+      </div>
+
+      <div class="controls">
+        <img src="./resources/Stop_and_play_fill-1.svg" id="prev">
+        <img src="./resources/play-button-48.png" id="play" height="40px" width="40px">
+        <img src="./resources/Stop_and_play_fill_reverse.svg" id="next">
+      </div>
+    </div>
+
+
+    <script src="script.js"></script>
+
+  </body>
+</html>
