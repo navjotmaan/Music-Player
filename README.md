@@ -7,11 +7,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://navjotmaan.github.io/Music-Player/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/navjotmaan/Music-Player">
       Solution
     </a>
     <span> | </span>
@@ -32,7 +32,7 @@
 
 ## Acknowledgements
 
-Pause Button icon by Icons8
+Pause Button icon by Icons8, 
 Play Button icon by Icon8
 
 
