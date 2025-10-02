@@ -1,4 +1,4 @@
-<h1 align="center">{Music Player} | devChallenges</h1>
+<h1 align="center">Music Player | devChallenges</h1>
 
 <div align="center">
    Solution for a challenge <a href="https://devchallenges.io/challenge/music-player" target="_blank">Music Player
@@ -38,4 +38,4 @@ Play Button icon by Icon8
 
 ## Author
 
-- GitHub [@navjotmaan](https://{github.com/navjotmaan})
+- GitHub [@navjotmaan](https://github.com/navjotmaan)
